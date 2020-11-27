@@ -757,18 +757,3 @@ a {
 .selectable {
 	user-select: all;
 }
-
-#searchBar {
-    width: 600px;
-    height: 32px;
-    border-radius: 3px;
-    border: 1px solid #eaeaea;
-    padding: 5px 10px;
-    font-size: 12px;
-}
-
-#search_button{
-	width: 50px;
-	height: 30px
-}
-

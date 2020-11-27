@@ -1,9 +1,10 @@
 <!DOCTYPE html>
-<html style='background-image: url("./img/background.png");' lang="nl">
+<html style='background-image: url("./img/background.png");'>
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <link rel="stylesheet" href="style.css">
+        <link rel="stylesheet" href="test.css">
         <title>Martijn Vriesman</title>
       </head>
     <body>
@@ -23,16 +24,22 @@
             </div>
             </div>
         </section>
-        <section>
-            
-        </section>
+
         <!-- End Header -->
         <section id="projects">
             <div class="projects container">
             <div class="projects-header">
-                <h1 class="section-title" style="color: white;">Alle <span>projecten</span></h1>
+                <h1 class="section-title" style="color: white;">
+                    <span class="dropdown">
+                        <button class="dropbtn">Kies een categorie</button>
+                        <div class="dropdown-content">
+                        <a href="school.html">Alle school projecten</a>
+                        <a href="persoonlijk.html">Alle persoonlijke projecten</a>
+                        </div>
+                    </span>
+                </h1>
             </div>
-
+            <!--
             <div class="all-projects">
                 <div class="project-item">
                 <div class="project-info">
@@ -41,7 +48,7 @@
                     <p id="proj1_text"></p>
                 </div>
                 <div class="project-vid" id="proj1_atta">
-                    <!-- Image -->
+
                 </div>
                 </div>
                 <div class="project-item">
@@ -51,7 +58,7 @@
                     <p id="proj2_text"></p>
                 </div>
                 <div class="project-vid" id="proj2_atta">
-                    <!-- Image -->
+
                 </div>
                 </div>
                 <div class="project-item">
@@ -61,20 +68,18 @@
                     <p id="proj3_text"></p>
                 </div>
                 <div class="project-vid" id="proj3_atta">
-                    <!-- Image -->
+
                     <iframe width="560" height="315" src="https://www.youtube.com/embed/cguIuPs_y4I" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                 </div>
                 </div>
                 <div class="project-item">
                     <div class="project-info">
-                        <h1 style="font-size: 10px;" id="proj4_head">Make the escape</h1>
-                        <h2 style="font-size: 8px;" id="proj4_date">Eind 2019</h2>
-                        <p style="font-size: 6px;" id="proj4_text">
-                            
-                        </p>
+                        <h1 style="font-size: 10px;" id="proj4_head"></h1>
+                        <h2 style="font-size: 8px;" id="proj4_date"></h2>
+                        <p style="font-size: 6px;" id="proj4_text"></p>
                     </div>
                     <div class="project-vid" id="proj4_atta">
-                        <!-- Image -->
+    
                     </div>
                 </div>
 
@@ -87,7 +92,7 @@
                         </p>
                     </div>
                     <div class="project-vid" id="proj5_atta">
-                        <!-- Image -->
+    
                     </div>
                 </div>
 
@@ -100,10 +105,11 @@
                         </p>
                     </div>
                     <div class="project-vid" id="proj6_atta">
-                        <!-- Image -->
+    
                     </div>
                 </div>
             </div>
+            -->
         </section>
         <!-- Footer -->
         <section id="footer">
@@ -129,5 +135,6 @@
         </section>
         <!-- End Footer -->
         <script src="./app.js"></script>
+        <script src="./port.js"></script>
     </body>
 </html>

@@ -3,7 +3,9 @@ var quotes = [
 	"Tim Ruscica: <q>Lets do an example with Y because Y not?</q>", 
 	"Linus Sebastian: <q>Just for lolz.</q>", 
 	"if (about_to_lose) {<br>&emsp;don't()<br>}",
-	"Arjan Bakker: <q>Bijna goed dus helemaal fout.</q>"];
+	"Arjan Bakker: <q>Bijna goed dus helemaal fout.</q>",
+	"while alive:<br>&emsp;Eat(1)<br>&emsp;Code(16)<br>&emsp;Sleep(7)",
+	"Jeremy Clarkson: <q>This is brilliant, but I like this</q>"];
 
 // setup site
 const hamburger = document.querySelector('.header .nav-bar .nav-list .hamburger');
@@ -49,7 +51,6 @@ function randomInteger(min, max) {
   }
 
 var random = randomInteger(0, quotes.length - 1)
-
 // quotes
 var quote = quotes[random]
 
