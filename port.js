@@ -31,7 +31,7 @@ function setup(project1, project2, project3, project4, project5, project6) {
 }
 
 function getdata() {
-    fetch('./projects.json')
+    fetch('/projects.json')
 	.then(function(resp) {
         return resp.json();
     })
