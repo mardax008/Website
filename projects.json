@@ -1,0 +1,43 @@
+{
+    "project1": {
+        "project_name": "Water energie",
+        "date": "Eind 2020",
+        "text": "Voor dit project gingen we een manier vinden om energie op te wekken uit strooming zonder milieu schade toe te brengen. We hebben meerdere ontwerpen gemaakt o.a een <a href='https://www.mardax.tech/old_projects/3d/'>3D versie</a> gemaakt met Unity. Na het maken van de ontwerpen hebben we het uitgebouwd. Na het uitbouwen hebben we een paar aanpassingen gedaan. Helaas konden we deze niet meer testen. Als laatste onderdeel hebben we een digitale presentatie gemaakt over ons ontwerp. Zie hiernaast.",
+        "attachment": "<iframe width='560' height='315' src='https://www.youtube.com/embed/icOFKHkws7g' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>"
+    },
+
+    "project2": {
+        "project_name": "De Goudse Creatie",
+        "date": "Mid 2020",
+        "text": "Voor dit project gingen we een bestaand Gouds product nemen en er een andere/verbeterde biologische versie van maken. Wij hebben biologische stroopwafel ijs gemaakt. We hebben het recept van Laurasbakery gebruikt. We hebben allemaal het biologische en niet biolosche versie bakken van het stoopwafel ijs. We moesten het bak procces filmen. Ik heb mijn video in de bijlage gezet. We moesten ook verslag doen van wat we vonden van de biologische en niet biologische versies. Wat we over het algemeen zagen was dat de biologische versie net iets minder was. Dit konden we compenseren met een paar ingrediënten + te doen. We moesten ook het bak proces filmen. Ik pakte natuurlijk meteen mijn kans om iets leuks te doen met Adobe Premiere.",
+        "attachment": "<iframe width='560' height='315' src='https://www.youtube.com/embed/5Ujd9-4B_gA' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>"
+    },
+
+    "project3": {
+        "project_name": "Computer Creator",
+        "date": "Begin-Mid 2020",
+        "text": "Voor dit project moest ik een probleem vinden en daar een oplossing voor zoeken. Mijn probleem was dat tijdens de corona tijd veel mensen thuis werken en er achter komen dat hun thuis computer/laptop niet voldoet aan hun werk. Daarom heb ik een <a href='https://www.mardax.tech/old_projects/CC/'>Computer Creator</a> gemaakt. In de website kan je invoeren waar je je pc voor wilt gebruiken. Dan kijkt de website welke pc bij jouw past. Je kan ook gewoon de overkill pc nemen. Dat is een pc die bijna wel alles kan: Van zwaar video bewerken tot de website <a href='https://www.antoniuscollegegouda.nl'>antoniuscollegegouda</a> bekijken. Ik heb dit gemaakt met Construct 2. Ik heb ook een leuke video gemaakt over de website. Dit heb ik gedaan met Adobe premier pro. De video over de app staat hiernaast.",
+        "attachment": "<iframe width='560' height='315' src='https://www.youtube.com/embed/cguIuPs_y4I' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>"
+    },
+
+    "project4": {
+        "project_name": "Make the escape",
+        "date": "Eind 2019",
+        "text": "We hebben een escape room bouwen met een mini computer erin verwerkt. Wij hebben voor onze escape room de Raspberry pi gekozen. We hebben de Raspberry pi gekozen omdat het de programeer taal python gebruik i.p.v. processing (arduino taal). De pi is ook veel uitgebreider dan een Arduino.Onze Raspberry pi had maar liefst 40 pins die je kunt onder verdelen in 5 categorieën:<ul><li>General Purpose Input/Output(GPIO) pins: deze pins kan je aan of uitzetten.</li><li>Do-Not-Connect(DNC) pins: Deze pins kan je niet gebruiken(zijn er maar 2).</li><li>Normale 3V pins: constante 3V pins.</li><li>Normale 6V pins: constante 6V pins.</li><li>Ground pins: Ground pins ook wel de -. </li></ul>Wat we gemaakt hebben:<ul><li>We hebben een deurbel gemaakt.</li><li>Als je op deze deurbel klikt gaan de ledjes onder de voetstappen aan.</li><li>Deze voetstappen je leiden naar een beeldscherm in een kippenhok</li><li>In het kippenhok zit een digitaal spel genaamd <a href='https://www.mardax.tech/old_projects/FlappyCode/'>Flappy Code</a>.</li></ul>Als je dit spel uit speelt krijg je een code waarmee je de kluis kan openen.In de kluis zit een sleutel voor het volgende spel.",
+        "attachment": "<img src='https://lost.sg/wp-content/uploads/2019/06/how-to-make-your-escape-room-experience-unforgettable.webp'>"
+    },
+
+    "project5": {
+        "project_name": "Veilige fiets route",
+        "date": "Begin 2019",
+        "text": "We moesten een fietsroute kiezen en daar 3 gevaarlijke knooppunten selecteren. De opdrachtgever(s) van VVN kozen 1 knoop punt die potentie had voor verbetering. Het eindresultaat is een 3D ontwerp en een machete.<br><br><span style='font-weight: bold;'> Wat ik heb gedaan:</span><ul><li>Maken 3D model:</li><li>PowerPoint maken.</li><li>Goed overlegd met het team wat de bedoeling was.</li></ul>",
+        "attachment": "<img src='./img/VVR.png'>"
+    },
+
+    "project6": {
+        "project_name": "Domino day",
+        "date": "Eind 2018",
+        "text": "We moesten een dominobaan ontwerpen. Opdrachtgever: Stichting domino.<br><br><span style='font-weight: bold;'>Wat ik heb gedaan: </span><ul><li>Helpen bouwen dominobaan.</li><li>Dominobaan online design.</li><li>Onderzoeken. </li></ul>",
+        "attachment": "<img src='./img/DD.png'>"
+    }
+}
