@@ -4,5 +4,12 @@
         "date": "Mid-eind 2020",
         "text": "<div>Voor dit persoonlijke project wilde ik een systeem bouwen die een deur opent als er een persoon in het zicht van de camera staat. Eerst begon ik met een simpel gezichtsherkennings programma dat gebruikt maakt van opencv. Daarna voegde ik knipper detectie toe. Dit verifieerde dat het gezicht geen foto was. Daarna voegde ik gezichts-detectie die de knipperdetectie pas aanzette als het gezicht van de persoon 2000 is, c.a. 2m, van de camera. Daarna heb ik het gezichts-herkennings programma vervangen voor een preciesere deep-learning versie. Alleen het probleem was dat de (7 jaar oude) pc die ik hiervoor gebruikte te sloom was. Ik heb geprobeerd wat optimalisatiete doen maar daardoor ging de precizie weer omlaag.</div><div>Wat ik heb geleerd:</div><div><ul><li>opencv</li><li><a href='https://www.github.com/mardax007'>github</a></li><li>hoe ML en AI werkt<br></li></ul></div></span></div>",
         "attachment": "<img src='https://cdn.dribbble.com/users/93860/screenshots/3985406/face-id_1.gif'>"
+    },
+
+    "project2": {
+        "project_name": "Quiz francais (Frans PO)",
+        "date": "Mid 2020",
+        "text": "",
+        "attachment": ""
     }
 }
